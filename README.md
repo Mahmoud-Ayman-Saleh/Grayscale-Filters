@@ -3,6 +3,7 @@
 
 This project is a Python-based application that provides a graphical user interface (GUI) for applying various filters to grayscale images. Users can easily load an image, apply a variety of filters, and export the modified image.
 
+
 ## Features
 
 - **Load and Display Images:**  
